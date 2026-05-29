@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.themed.cz/sitemap.xml
+
+# Block WordPress admin (not needed in static site, but good practice)
+Disallow: /wp-admin/
+Disallow: /wp-includes/

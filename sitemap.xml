@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.themed.cz/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/maseri-themed-narodni-trida-tym.jpg</image:loc>
+      <image:title>Tým masérů TheMed Praha — studenti lékařské fakulty</image:title>
+      <image:caption>Maserský tým TheMed na Národní třídě v Praze</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.themed.cz/sluzby/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masaz-zad-themed-narodni-trida-praha.jpg</image:loc>
+      <image:title>Masáž zad TheMed Praha Národní třída</image:title>
+      <image:caption>Studentka lékařské fakulty provádí regenerační masáž zad v Praze na Národní třídě</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/fotobiomodulace-themed-narodni-trida-praha.jpg</image:loc>
+      <image:title>Fotobiomodulace TheMed Praha Národní třída</image:title>
+      <image:caption>Světelná terapie NuovoTherapy — fotobiomodulace na Národní třídě Praha</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.themed.cz/cenik/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.themed.cz/kontakty/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/maserna-narodni-trida-themed-praha.jpg</image:loc>
+      <image:title>Masérna TheMed Praha — Národní třída</image:title>
+      <image:caption>Prostory masážního salonu TheMed v centru Prahy na Národní třídě</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.themed.cz/o-nas/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.themed.cz/masersky-tym/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/maseri-themed-narodni-trida-tym.jpg</image:loc>
+      <image:title>Maséři TheMed Národní třída tým</image:title>
+      <image:caption>Tým masérů TheMed — studenti všeobecného lékařství s masérským kurzem</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.themed.cz/fotky/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masersky-tym-themed-narodni-trida-praha.jpg</image:loc>
+      <image:title>Maserský tým TheMed — Národní třída Praha</image:title>
+      <image:caption>Studentky lékařské fakulty — maséři TheMed Praha Národní třída</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masaze-narodni-trida-tym-themed-praha.jpg</image:loc>
+      <image:title>Tým masérů TheMed Praha</image:title>
+      <image:caption>Tým TheMed na Národní třídě — certifikovaní maséři studenti lékařství</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/maserni-salon-themed-skupina-mediku-praha.jpg</image:loc>
+      <image:title>Masérna TheMed Praha skupina mediků</image:title>
+      <image:caption>Skupinová fotka týmu TheMed v masérně na Národní třídě Praha</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/themed-masaze-studentky-lekarske-fakulty-Praha.jpg</image:loc>
+      <image:title>Studentky lékařské fakulty TheMed masáže Praha</image:title>
+      <image:caption>Studentky lékařské fakulty — maséři TheMed Praha Národní třída</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/maseri-themed-narodni-trida-regeneracni-masaze-praha.jpg</image:loc>
+      <image:title>Maséři TheMed regenerační masáže Národní třída Praha</image:title>
+      <image:caption>Maséři TheMed — regenerační masáže Praha Národní třída, studenti lékařství</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/themed-masaze-certifikovany-tym-narodni-trida.jpg</image:loc>
+      <image:title>Certifikovaný tým TheMed Národní třída Praha</image:title>
+      <image:caption>Certifikovaný tým masérů TheMed — Národní třída Praha, péče z rukou mediků</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masaz-zad-themed-narodni-trida-praha.jpg</image:loc>
+      <image:title>Masáž zad TheMed Praha Národní třída</image:title>
+      <image:caption>Studentka lékařské fakulty provádí regenerační masáž zad v Praze na Národní třídě</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/regeneracni-masaz-themed-medik-praha.jpg</image:loc>
+      <image:title>Regenerační masáž TheMed Praha</image:title>
+      <image:caption>Certifikovaný masér student lékařství provádí regenerační masáž v TheMed Praha</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masaz-siji-themed-narodni-trida.jpg</image:loc>
+      <image:title>Masáž šíje TheMed Národní třída Praha</image:title>
+      <image:caption>Uvolnění napětí šíje a ramen — masáže Praha Národní třída TheMed</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masaz-horni-koncetiny-themed-praha.jpg</image:loc>
+      <image:title>Masáž horních končetin TheMed Praha</image:title>
+      <image:caption>Regenerační masáž rukou a paží — TheMed Národní třída Praha</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/fotobiomodulace-themed-narodni-trida-praha.jpg</image:loc>
+      <image:title>Fotobiomodulace TheMed Praha Národní třída</image:title>
+      <image:caption>Světelná terapie NuovoTherapy — fotobiomodulace TheMed Praha</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/maserna-narodni-trida-themed-praha.jpg</image:loc>
+      <image:title>Masérna TheMed Praha prostory</image:title>
+      <image:caption>Prostory masážního salonu TheMed v centru Prahy na Národní třídě</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.themed.cz/images/masaz-themed-narodni-trida-prostory.jpg</image:loc>
+      <image:title>Prostory masáže TheMed Národní třída Praha</image:title>
+      <image:caption>Moderní masážní salon TheMed v centru Prahy — Národní třída Praha 1</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
